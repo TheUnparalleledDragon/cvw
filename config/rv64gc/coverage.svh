@@ -14,6 +14,15 @@
 `include "RV64Zbb_coverage.svh"
 `include "RV64Zbc_coverage.svh"
 `include "RV64Zbs_coverage.svh"
+    //  Cryptography Extentions
+`include "RV64Zbkb_coverage.svh"
+`include "RV64Zbkc_coverage.svh"
+`include "RV64Zbkx_coverage.svh"
+
+`include "RV64Zknd_coverage.svh"
+`include "RV64Zkne_coverage.svh"
+`include "RV64Zknh_coverage.svh"
+    //
 `include "RV64ZfaF_coverage.svh"
 `include "RV64ZfaD_coverage.svh"
 `include "RV64ZfaZfh_coverage.svh"
