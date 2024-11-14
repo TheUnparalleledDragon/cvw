@@ -14,6 +14,15 @@
 `include "RV32Zbb_coverage.svh"
 `include "RV32Zbc_coverage.svh"
 `include "RV32Zbs_coverage.svh"
+    //  Cryptography Extentions
+`include "RV32Zbkb_coverage.svh"
+`include "RV32Zbkc_coverage.svh"
+`include "RV32Zbkx_coverage.svh"
+
+`include "RV32Zknd_coverage.svh"
+`include "RV32Zkne_coverage.svh"
+`include "RV32Zknh_coverage.svh"
+    //
 `include "RV32ZfaF_coverage.svh"
 `include "RV32ZfaD_coverage.svh"
 `include "RV32ZfaZfh_coverage.svh"
